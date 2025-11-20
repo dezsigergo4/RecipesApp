@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RecipesApp.App">
+
+    <Application.Resources>
+        <Color x:Key="PrimaryColor">#80C4E9</Color>
+        <Color x:Key="SecondaryColor">#FFA559</Color>
+        <Color x:Key="AccentColor">#FFB84C</Color>
+        <Color x:Key="LightBackground">#F5F7F8</Color>
+        <Color x:Key="DarkText">#333333</Color>
+    </Application.Resources>
+</Application>
